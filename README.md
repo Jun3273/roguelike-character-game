@@ -1,13 +1,13 @@
 ## Rogue-like Character Based Game
 
-Reconstruction of the 1980s Rogue using third-party asciiPanel code
+Reconstruction of the 1980s Rogue using third-party asciiPanel code.
 
 To build the game, 
 
-    javac src/Rogue.java 
+    javac game/Rogue.java 
   
 and to run it
 
-    java src.Rogue <xml filename>
+    java game.Rogue <xml filename>
 
-where the filenames can be found in the 'xmlFiles' subdirectory
+where the filenames can be found in the 'xmlFiles' subdirectory.
